@@ -1,1 +1,1 @@
-adjust
+data science exercice in python 
